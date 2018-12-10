@@ -1,0 +1,3 @@
+﻿  gcd.cpp
+c:\users\vikkyp\source\repos\gcd\gcd\gcd.cpp(12): warning C4715: 'gcd': not all control paths return a value
+  GCD.vcxproj -> C:\Users\vikkyp\source\repos\GCD\Debug\GCD.exe
