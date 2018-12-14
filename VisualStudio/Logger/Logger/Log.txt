@@ -1,0 +1,2 @@
+Application has started
+Init graphic system

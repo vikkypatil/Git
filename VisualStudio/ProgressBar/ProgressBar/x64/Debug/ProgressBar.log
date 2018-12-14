@@ -1,0 +1,5 @@
+﻿  ProgreeeBar.cpp
+  Source.cpp
+n:\vikky\git\visualstudio\progressbar\progressbar\source.cpp(4): warning C4101: 'a': unreferenced local variable
+  Generating Code...
+  ProgressBar.vcxproj -> N:\Vikky\Git\VisualStudio\ProgressBar\x64\Debug\ProgressBar.exe
